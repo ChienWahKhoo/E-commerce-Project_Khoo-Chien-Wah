@@ -1,7 +1,7 @@
 ## Mobile App Design
 
 ### Exported Designs
-You can find the exported designs in the `mobile_app/exports/` directory.
+You can find the exported designs in the `LDCW6123 Project(1).png` directory.
 
 ### Figma Links
 For the live interactive designs, please refer to the links below:
